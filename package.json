@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.1",
+    "uuid": "^9.0.0"
+  },
+  "name": "superhero-films-express-vercel",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardxel/superhero-films-express-vercel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardxel/superhero-films-express-vercel/issues"
+  },
+  "homepage": "https://github.com/ardxel/superhero-films-express-vercel#readme"
+}

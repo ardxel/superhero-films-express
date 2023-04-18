@@ -1,0 +1,44 @@
+[
+  {
+    "email": "john123@gmail.com",
+    "username": "john123",
+    "password": "Qwerty12345",
+    "token": "50c524dc-bde5-497c-8458-f4cb618b9e50",
+    "name": "John Marston",
+    "avatar": null,
+    "idAdmin": true,
+    "favorites": [
+      178557,
+      104904,
+      770631,
+      597687,
+      462754,
+      814016
+    ],
+    "ratings": [
+      {
+        "id": 690593,
+        "value": 9.7
+      },
+      {
+        "id": 1008445,
+        "value": 8.7
+      },
+      {
+        "id": 602409,
+        "value": 3.5
+      }
+    ],
+    "watchlist": [
+      602409,
+      690593,
+      597687,
+      807682,
+      814016
+    ],
+    "biography": "I am John",
+    "gender": "male",
+    "birthday": "14.12.1986",
+    "country": "Armenia"
+  }
+]
